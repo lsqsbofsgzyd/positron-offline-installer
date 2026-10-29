@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Data+Science+IDE-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Positron Free Installer** — Positron is a new, free IDE from Posit for data scientists, built on VS Code's foundation with deep R and Python integration. Works without internet access, no account required. Full offline installation.
+**💻 Positron Free Installer** — Positron is a new, open-source data science IDE from Posit (creators of RStudio) built on VS Code. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Positron
 
-Positron is a new, free IDE from Posit for data scientists, built on VS Code's foundation with deep R and Python integration. It provides a console, environment pane, and data viewer tailored for data science workflows.
+Positron is a new, open-source data science IDE from Posit (creators of RStudio) built on VS Code. Designed for R and Python data scientists, Positron provides a consistent IDE experience across both languages with an integrated console, variable inspector, data viewer, and plot panel. Positron aims to be the modern, polyglot successor to RStudio Desktop.
 
 ---
 
 ## ❌ Problem: Positron is hard to access
 
-- **New Product** — Still in early development; some features incomplete
-- **R and Python Focus** — Less suitable for general software development
-- **Posit Account** — Some features may require Posit account
-- **Small Community** — Ecosystem still building compared to established IDEs
+- **Early Development** — Newer product with active development; some features still maturing
+- **Extension Compatibility** — Not all VS Code extensions work without modification
+- **Community Resources** — Smaller community than established RStudio users
+- **Documentation** — Rapidly evolving product with documentation catching up to features
 
 ---
 
@@ -121,7 +121,7 @@ Positron is a new, free IDE from Posit for data scientists, built on VS Code's f
 
 ---
 
-**Positron Free Installer** — Positron is a new, free IDE from Posit for data scientists, built on VS Code's foundation with deep R and Python integration. Install without internet connection today!
+**Positron Free Installer** — Positron is a new, open-source data science IDE from Posit (creators of RStudio) built on VS Code. Install without internet connection today!
 
 <div align="center">
 
